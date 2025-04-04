@@ -2,3 +2,29 @@ html {
   height: 100%;
   width: 100%;
 }
+tabele {
+  width:100%;
+  border-collapse: collapse;/* Remove espaço entre as bordas*/
+}
+th, td {
+  border: 2px solid black; /* Adiciona borda na tabela*/
+  padding: 8px;
+  text-align: center;
+}
+th {
+  background-color: green; /* cor do fundo para o cabeçalho*/
+  color: white;/* cor do texto no cabeçalho */
+}
+h1 {
+  color: black;
+}
+h2 {
+  color: blue;
+}
+p {
+  color: bl
+}
+body, html {
+  margin: 0;
+  padding: 0;
+}
