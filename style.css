@@ -59,8 +59,13 @@ body, html {
 #inicio {
   background-color:black;
   padding: 20px;
-  border-bottom: 20px;
+  border-bottom: 2px solid;
+  
 }
 #receitas {
-  
+  background-color: white;
+  padding: 20px;
+  border-bottom:2px dashed white;
+  text-align: center;
+
 }
