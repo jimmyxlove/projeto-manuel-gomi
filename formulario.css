@@ -13,7 +13,7 @@
 form {
   display: flex;
   flex-direction: column;
-  gap: 20px; /* Mais espaçamento entre os eementos */
+  gap: 20px; /* Mais espaçamento entre os elementos */
 }
 
 form label {
