@@ -1,71 +1,8 @@
-html {
-  height: 100%;
-  width: 100%;
+nav ul li a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  transition: color 0.3;
 }
-tabele {
-  width:100%;
-  border-collapse: collapse;/* Remove espaço entre as bordas*/
-}
-th, td {
-  border: 2px solid black; /* Adiciona borda na tabela*/
-  padding: 8px;
-  text-align: center;
-}
-th {
-  background-color: green; /* cor do fundo para o cabeçalho*/
-  color: white;/* cor do texto no cabeçalho */
-}
-h1 {
+nav ul li a:hover {
   color: black;
-}
-h2 {
-  color: blue;
-}
-p {
-  color: bl
-}
-body, html {
-  margin: 0;
-  padding: 0;
-}
-
-
-tabele {
-  width:100%;
-  border-collapse: collapse;/* Remove espaço entre as bordas*/
-}
-th, td {
-  border: 2px solid black; /* Adiciona borda na tabela*/
-  padding: 8px;
-  text-align: center;
-}
-th {
-  background-color: green; /* cor do fundo para o cabeçalho*/
-  color: white;/* cor do texto no cabeçalho */
-}
-h1 {
-  color: black;
-}
-h2 {
-  color: blue;
-}
-p {
-  color: bl
-}
-body, html {
-  margin: 0;
-  padding: 0;
-}
-#inicio {
-  background-color:black;
-  padding: 20px;
-  border-bottom: 2px solid;
-  
-}
-#receitas {
-  background-color: white;
-  padding: 20px;
-  border-bottom:2px dashed white;
-  text-align: center;
-
 }
